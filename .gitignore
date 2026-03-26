@@ -1,3 +1,4 @@
 .env
 node_modules/
-lls
+lls.env
+node_modules/
